@@ -1,0 +1,11 @@
+2020-10-05 12:35:07,356: DEBUG: Current IPs: ['192.168.1.39']
+2020-10-05 12:35:22,903: INFO: Using the following configuration:
+2020-10-05 12:35:22,904: INFO: 	Server IP Address: 192.168.1.39
+2020-10-05 12:35:22,905: INFO: 	WiFi SSID: YAPO_8_OUTDOOR
+2020-10-05 12:35:22,906: INFO: 	WiFi Password: **********
+2020-10-05 12:35:22,907: INFO: Platform: linux
+2020-10-05 12:35:22,911: INFO: ** Now connect via WiFi to your Sonoff device.
+2020-10-05 12:35:22,913: INFO: ** Please change into the ITEAD WiFi network (ITEAD-100001XXXX). The default password is 12345678.
+2020-10-05 12:35:22,914: INFO: To reset the Sonoff to defaults, press the button for 7 seconds and the light will start flashing rapidly.
+2020-10-05 12:35:22,914: INFO: ** This application should be kept running and will wait until connected to the Sonoff...
+2020-10-05 12:41:41,983: DEBUG: Current IPs: ['192.168.1.25', '192.168.1.39']
